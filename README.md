@@ -22,7 +22,7 @@ Everything runs on your machine. No subscriptions. No data leaving your laptop.
 
 I wanted to learn Whisper. That was it. That was the whole plan.
 
-Then I got curious about TTS voices. Then local LLMs. Then I thought it'd be funny to make it sound like Jarvis from Iron Man. Then I figured if I'd already spent this long on it, I may as well give it a proper UI.
+Then I got curious about TTS voices. Then local LLMs. Then I thought it'd be funny to make it sound like Jarvis from Iron Man. Then I figured if I'd already spent this long on it, I may as well give it a proper UI. (UI was all Claude)
 
 It's not trying to be anything groundbreaking. It's a personal project I built to use in places without reliable Wi-Fi — libraries, cafés, airports — when I just want to ask something quickly and get a sensible answer back.
 
